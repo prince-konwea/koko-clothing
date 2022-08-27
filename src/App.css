@@ -1,9 +1,13 @@
 body{
     font-family: "Open Sans Condensed";
-    /* background-color: #000c24; */
+    background-color: #000c24;
     padding: 20px 60px;
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #fff;
+}
+
+h2{
+    color: #fff;
 }
