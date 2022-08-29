@@ -14,7 +14,7 @@ this.state = {
           title: 'hats',
           imageUrl: 'https://images.pexels.com/photos/936038/pexels-photo-936038.jpeg?auto=compress&cs=tinysrgb&w=600',
           id: 1,
-          linkUrl: 'hats'
+          linkUrl: 'shop/hats'
         },
         {
           title: 'jackets',
