@@ -1,6 +1,10 @@
 body{
     font-family: "Open Sans Condensed";
+<<<<<<< HEAD
     background-color: #da0037;
+=======
+    /* background-color: #da0037; */
+>>>>>>> 0f73b0b (changed background to white)
     padding: 20px 60px;
 }
 a{
